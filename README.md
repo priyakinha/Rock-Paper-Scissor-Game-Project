@@ -1,4 +1,4 @@
-# Rock-Paper-Scissor-Game-Projecte
+# Rock-Paper-Scissor-Game-Project
 
 # Overview
 This is a simple Rock Paper Scissors game implemented in JavaScript. The game allows users to play against the computer, keeping track of scores and displaying the outcome of each round.
